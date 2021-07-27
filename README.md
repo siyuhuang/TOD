@@ -18,6 +18,14 @@
 <img src="doc/result.png" width="600" />
 </p>
 
+## Requirements
+
+ numpy
+ 
+ torch >= 1.0.1
+ 
+ torchvision >= 0.2.1
+
 ## Data Preparation
  Download image classification datasets (e.g., Cifar-10, Cifar-100, SVHN, or Caltech101) and put them under `./data`.
  
@@ -40,14 +48,6 @@
  |-- resnet18-5c106cde.pth
  |-- ...
  ```
-
-## Requirements
-
- numpy
- 
- torch >= 1.0.1
- 
- torchvision >= 0.2.1
  
 
 ## Quick Start
