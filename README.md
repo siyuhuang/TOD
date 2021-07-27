@@ -7,7 +7,7 @@
 ### Method
 
 <p align="center">
-<img src="doc/method.png" width="700" />
+<img src="doc/method.png" width="750" />
 </p>
 
 ### Results
