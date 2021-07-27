@@ -6,7 +6,7 @@
  * We theoretically demonstrate that *TOD is a lower-bound of the accumulated sample loss*. 
  * An unlabeled data sampling strategy and a semi-supervised training scheme are developed for active learning based on TOD. 
 
-### Active Data Sampling
+### Active Data Selection
 
 <p align="center">
 <img src="doc/method.png" width="750" />
