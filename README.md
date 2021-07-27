@@ -2,7 +2,7 @@
  Code for Semi-Supervised Active Learning with Temporal Output Discrepancy, *ICCV 2021*.
 
 ## Introduction
- We present a loss measurement **Temporal Output Discrepancy (TOD)** which estimates the loss of unlabeled samples by evaluating the distance of model outputs at different GD steps. We theoretically prove *TOD is a lower-bound of the accumulated sample loss*. Based on TOD, an unlabeled data sampling strategy and a semi-supervised training scheme are proposed for active learning. 
+ We present a loss measurement **Temporal Output Discrepancy (TOD)** which estimates the loss of unlabeled samples by evaluating the distance of model outputs at different GD steps. We theoretically prove *TOD is a lower-bound of the accumulated sample loss*. An unlabeled data sampling strategy and a semi-supervised training scheme are proposed for active learning based on TOD. 
 
 ### Method
 
