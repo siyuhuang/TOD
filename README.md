@@ -3,7 +3,7 @@
 
 ## Introduction
  * We present a loss measurement **Temporal Output Discrepancy (TOD)** which estimates the loss of unlabeled samples by evaluating the distance of model outputs at different SGD steps. 
- * We theoretically demonstrate that *TOD is a lower-bound of the accumulated sample loss*. 
+ * We theoretically demonstrate that *TOD is a lower-bound of accumulated sample loss*. 
  * An unlabeled data sampling strategy and a semi-supervised training scheme are developed for active learning based on TOD. 
 
 ### TOD Active Data Selection
