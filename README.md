@@ -1,5 +1,5 @@
 # Temporal Output Discrepancy for Active Learning
- Code for Semi-Supervised Active Learning with Temporal Output Discrepancy, *ICCV 2021*.
+ PyTorch implementation of Semi-Supervised Active Learning with Temporal Output Discrepancy, *ICCV 2021*.
 
 ## Introduction
  * We present a loss measurement **Temporal Output Discrepancy (TOD)** which estimates the loss of unlabeled samples by evaluating the distance of model outputs at different GD steps. 
