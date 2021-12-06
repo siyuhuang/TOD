@@ -84,7 +84,7 @@
 ```
  @inproceedings{huang2021semi,
   title={Semi-Supervised Active Learning with Temporal Output Discrepancy},
-  author={Huang, Siyu and Wang, Tainyang and Xiong, Haoyi and Huan, Jun and Dou, Dejing},
+  author={Huang, Siyu and Wang, Tianyang and Xiong, Haoyi and Huan, Jun and Dou, Dejing},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2021}
  }
