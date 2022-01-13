@@ -57,11 +57,11 @@
  ```
  
 ## Specify Datasets, Active Sampling Strategies, and Auxiliary Losses
- The dataset configurations, active learning settings (trials and cycles), and neural network training settings can be found in `./config` folder. 
+ `./config/`: The dataset configurations, active learning settings (trials and cycles), and neural network training settings can be found in `./config` folder. 
  
- We provide implementations of active data sampling strategies including *random sampling*, *learning loss for active learning ([LL4AL](https://arxiv.org/abs/1905.03677))*, and our *TOD sampling*. Use `--sampling` to specify a sampling strategy.
+ `--sampling`: We provide implementations of active data sampling strategies including *random sampling*, *learning loss for active learning ([LL4AL](https://arxiv.org/abs/1905.03677))*, and our *TOD sampling*. Use `--sampling` to specify a sampling strategy.
  
- We also provide implementations of auxiliary training losses including *[LL4AL](https://arxiv.org/abs/1905.03677)* and our *COD loss*. Use `--auxiliary` to specify an auxiliary loss.
+ `--auxiliary`: We also provide implementations of auxiliary training losses including *[LL4AL](https://arxiv.org/abs/1905.03677)* and our *COD loss*. Use `--auxiliary` to specify an auxiliary loss.
  
  ### Examples
  
