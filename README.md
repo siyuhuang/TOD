@@ -88,6 +88,7 @@
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2021}
  }
+ 
  @article{huang2022temporal,
   title={Temporal Output Discrepancy for Loss Estimation-Based Active Learning},
   author={Huang, Siyu and Wang, Tianyang and Xiong, Haoyi and Wen, Bihan and Huan, Jun and Dou, Dejing},
