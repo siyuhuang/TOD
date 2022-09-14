@@ -85,14 +85,14 @@
  @inproceedings{huang2021semi,
   title={Semi-Supervised Active Learning with Temporal Output Discrepancy},
   author={Huang, Siyu and Wang, Tianyang and Xiong, Haoyi and Huan, Jun and Dou, Dejing},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2021}
  }
  
  @article{huang2022temporal,
   title={Temporal Output Discrepancy for Loss Estimation-Based Active Learning},
   author={Huang, Siyu and Wang, Tianyang and Xiong, Haoyi and Wen, Bihan and Huan, Jun and Dou, Dejing},
-  journal={IEEE Transactions on Neural Networks and Learning Systems (TNNLS)},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2022},
  }
 ```
